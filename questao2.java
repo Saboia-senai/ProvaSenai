@@ -20,7 +20,7 @@ public class questao2 {
 		
 		//MULTIPLICAR A BASE PELA ALTURA PARA OBTER O RESULTADO DA AREA
 		
-		double area = base * altura; //DECLARAR A AREA COM O RESULTADO DA CONTA
+		double area = base * altura/2; //DECLARAR A AREA COM O RESULTADO DA CONTA
 		
 		//MOSTRAR O RESULTADO DA AREA DO TRIANGULO AO USUARIO
 		System.out.println("A area do triangulo é: " + area);
